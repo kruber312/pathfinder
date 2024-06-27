@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-pantalla-principal/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/1-pantalla-principal/"}
 ---
 
 - Creacion de Personaje
